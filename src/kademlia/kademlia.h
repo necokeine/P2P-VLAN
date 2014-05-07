@@ -1,0 +1,8 @@
+
+
+
+class CKademlia{
+	CKademlia();
+	~CKademlia();
+
+};
